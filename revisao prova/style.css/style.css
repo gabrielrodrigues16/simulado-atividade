@@ -1,0 +1,28 @@
+
+table { width: 100%;
+    height: 100vh; }
+    
+ 
+#linha1 {height: 180px;}
+#linha2 {height: 180px; ;}
+#linha3 {height: 230px;}
+#linha4 {height: 80px;}
+#linha5 {height: 80px;}
+
+
+
+.td1{width: 20%;}
+.td2{width: 80%;}
+.td3{width: 16%;}
+.td4{width: 19%;
+vertical-align: top
+;text-align: center;}
+.td5{width: 15%;}
+.td7{width: 4.5%;}
+.td8{width: 19%; text-align: center}
+.td9{ vertical-align:center;
+    text-align: center;}
+
+
+
+
